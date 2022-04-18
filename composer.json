@@ -7,12 +7,12 @@
     "prefer-stable": true,
     "autoload": {
         "psr-4": {
-            "Gupalo\\BpmWorkflowBundle\\": ""
+            "Leshko\\BpmWorkflowBundle\\": ""
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Gupalo\\BpmWorkflowBundle\\Tests\\": "Tests/"
+            "Leshko\\BpmWorkflowBundle\\Tests\\": "Tests/"
         }
     },
     "require": {

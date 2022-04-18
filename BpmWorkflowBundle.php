@@ -1,6 +1,6 @@
 <?php
 
-namespace Gupalo\BpmWorkflowBundle;
+namespace Leshko\BpmWorkflowBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 

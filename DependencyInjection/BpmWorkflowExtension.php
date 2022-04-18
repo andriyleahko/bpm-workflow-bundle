@@ -1,6 +1,6 @@
 <?php
 
-namespace Gupalo\GoogleAuthBundle\DependencyInjection;
+namespace Leshko\BpmWorkflowBundle\DependencyInjection;
 
 use Exception;
 use Symfony\Component\Config\FileLocator;
